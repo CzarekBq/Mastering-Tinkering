@@ -12,11 +12,13 @@ My name is Cezary. Its diminutive in Polish is Czarek ("Cha-rek") which I usuall
 
 This is my portable workstation. If there is anything more specific I need to do physically then I visit DesignLab. For most of my projects this workstation is good for at least 90-100% of the creation process. The three points that stimulate tinkering are:
 
-- **My laptop; An old one but gets the job done! All of my sotware tools are there. It is also a good inspiration medium (aka for using the internet)**
-- **Graphic tablet; a mouse can get me only so far, it allows me to translate what I want to draw/sketch into the digital world (also nice to play with)** 
-- **My pencil case; in there I do not only keep drawing/sketching supplies but also all sorts of cables, DesignLab badge and little trinkets**
-- **Bonus: water bottle; you can't go wrong with that**
+1.  My laptop; An old one but gets the job done! All of my sotware tools are there. It is also a good inspiration medium (aka for using the internet)
+2.  Graphic tablet; a mouse can get me only so far, it allows me to translate what I want to draw/sketch into the digital world (also nice to play with)
+3.  My pencil case; in there I do not only keep drawing/sketching supplies but also all sorts of cables, DesignLab badge and little trinkets
+4.  Bonus: water bottle; you can't go wrong with that
 
-Add a page about you, your previous study/studies, relevant hobbies and, importantly
-make a picture of your workspace and circle / highlight 3 points that stimulate tinkering. Also, list three things that might improve tinkerability. (check if there is privacy-sensitive information, then don't show it or make a drawing or use an alternative picture)
-submit the link to your site before the next class
+Things that can improve tinkerability are:
+
+1. A graphic tablet with a built-in screen. Makes it easier to draw (even though the one I have is also good enough with some practice!) It can also act as a second screen for my convenience
+2. Might sound silly but fidget toys would be nice to have lying around. Not only because they are fun but also because they already put me in the mindest of working with my hands and trying out new stuff
+3. tools and materials for quick prototyping
