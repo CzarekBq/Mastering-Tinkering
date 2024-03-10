@@ -19,6 +19,6 @@ This is my portable workstation. If there is anything more specific I need to do
 
 Things that can improve tinkerability are:
 
-1. A graphic tablet with a built-in screen. Makes it easier to draw (even though the one I have is also good enough with some practice!) It can also act as a second screen for my convenience
-2. Might sound silly but fidget toys would be nice to have lying around. Not only because they are fun but also because they already put me in the mindest of working with my hands and trying out new stuff
-3. tools and materials for quick prototyping
+a. A graphic tablet with a built-in screen. Makes it easier to draw (even though the one I have is also good enough with some practice!) It can also act as a second screen for my convenience
+b. Might sound silly but fidget toys would be nice to have lying around. Not only because they are fun but also because they already put me in the mindest of working with my hands and trying out new stuff
+c. tools and materials for quick prototyping
